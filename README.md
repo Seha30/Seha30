@@ -160,7 +160,16 @@ Focusing on steady improvement, discipline, and real progress over time.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seha30&theme=tokyonight&hide_border=true&background=0d1117&stroke=2563eb&ring=38bdf8&fire=2563eb&currStreakLabel=38bdf8" width="55%" />
 
 </div>
+<br/>
 
+## GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Seha30)](https://github.com/Seha30/github-profile-trophy)
+
+</div>
+<br/>
 ---
 
 ## Let's Connect
